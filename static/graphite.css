@@ -63,6 +63,10 @@ div.section {
   padding: 0 0 1em;
 }
 
+div.document > div.section {
+  margin: 2em 2em;
+}
+
 div.section h1 {
   text-align: left;
   font-size: 180%;
@@ -91,6 +95,12 @@ div.section h3 {
 div.section p {
   margin: 0 0.5em;
   padding: 0.5em 0.5em 0;
+}
+
+div.section img {
+  margin: 1.5em;
+  border: 1px solid #333333;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.5);
 }
 
 tt {
@@ -221,10 +231,6 @@ div.bodywrapper {
 
 div.body {
   padding: 0 1em;
-}
-
-div.bodypadded {
-  padding: 2em;
 }
 
 div.sphinxsidebar {

@@ -1,6 +1,9 @@
-=============
-Sphinx Themes
-=============
+========
+Graphite
+========
+
+Overview
+========
 
 A white-on-black theme for the Sphinx_ documentation generator. It has
 slightly muted white text on various shades of dark grey. I created this
