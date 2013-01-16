@@ -23,25 +23,25 @@ think complements it without being overly bright.
    :width: 200 px
    :height: 200 px
    :alt: Graphite theme screenshot 1
-   :target: screenshots/graphite_screenshot_1.png
+   :target: http://cartroo.github.com/sphinx-theme-graphite/screenshots/graphite_screenshot_1.png
 
 .. image:: http://cartroo.github.com/sphinx-theme-graphite/screenshots/graphite_screenshot_2.png
    :width: 200 px
    :height: 200 px
    :alt: Graphite theme screenshot 2
-   :target: screenshots/graphite_screenshot_2.png
+   :target: http://cartroo.github.com/sphinx-theme-graphite/screenshots/graphite_screenshot_2.png
 
 .. image:: http://cartroo.github.com/sphinx-theme-graphite/screenshots/graphite_screenshot_3.png
    :width: 200 px
    :height: 200 px
    :alt: Graphite theme screenshot 3
-   :target: screenshots/graphite_screenshot_3.png
+   :target: http://cartroo.github.com/sphinx-theme-graphite/screenshots/graphite_screenshot_3.png
 
 .. image:: http://cartroo.github.com/sphinx-theme-graphite/screenshots/graphite_screenshot_4.png
    :width: 200 px
    :height: 200 px
    :alt: Graphite theme screenshot 4
-   :target: screenshots/graphite_screenshot_4.png
+   :target: http://cartroo.github.com/sphinx-theme-graphite/screenshots/graphite_screenshot_4.png
 
 
 .. _Sphinx: http://sphinx-doc.org/
